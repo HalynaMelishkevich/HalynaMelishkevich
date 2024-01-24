@@ -17,6 +17,7 @@
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/HalynaMelishkevich/HalynaMelishkevich/main/icons/express.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/HalynaMelishkevich/HalynaMelishkevich/main/icons/aws.svg" width="36" height="36" alt="AWS" /></a>
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg"  width="36" height="36" alt="NestJS" /></a>
+<a href="https://www.serverless.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/HalynaMelishkevich/HalynaMelishkevich/main/icons/serverless.svg"  width="36" height="36" alt="NestJS" /></a>
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/HalynaMelishkevich/HalynaMelishkevich/main/icons/jest.svg"  width="36" height="36" alt="Jest" /></a>
 </p>
 
