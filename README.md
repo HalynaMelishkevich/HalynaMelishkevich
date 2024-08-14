@@ -3,7 +3,7 @@
 
 - 🔭&nbsp;I’m currently working at **[AvenueOne](https://www.avenue.one/)**
 
-- 💬&nbsp;Ask me about **Test Automation / Node.js / Serverless architecture**
+- 💬&nbsp;Ask me about **Node.js / Serverless architecture / Test Automation / Chat bots and integrations with 3rd parties**
 
 - ⚡&nbsp;I love yoga 🧘‍♀️ and psychology 🧠
 
