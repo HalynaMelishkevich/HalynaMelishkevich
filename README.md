@@ -30,5 +30,5 @@
 </p>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalynaMelishkevich&layout=compact" alt="halyna-melishkevych" />
+    <img align="left" src="https://raw.githubusercontent.com/HalynaMelishkevich/HalynaMelishkevich/main/icons/stats.svg" alt="halyna-melishkevych" />
 </p>
